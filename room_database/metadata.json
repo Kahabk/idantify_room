@@ -1,0 +1,1073 @@
+[
+  {
+    "room_label": "hall",
+    "video_filename": "Hall.mp4",
+    "video_path": "hall/Hall.mp4",
+    "frame_number": 0,
+    "timestamp_seconds": 0.0,
+    "blur_score": 159.82,
+    "brightness": 96.35
+  },
+  {
+    "room_label": "hall",
+    "video_filename": "Hall.mp4",
+    "video_path": "hall/Hall.mp4",
+    "frame_number": 15,
+    "timestamp_seconds": 0.501,
+    "blur_score": 143.87,
+    "brightness": 98.98
+  },
+  {
+    "room_label": "hall",
+    "video_filename": "Hall.mp4",
+    "video_path": "hall/Hall.mp4",
+    "frame_number": 30,
+    "timestamp_seconds": 1.002,
+    "blur_score": 104.47,
+    "brightness": 106.85
+  },
+  {
+    "room_label": "hall",
+    "video_filename": "Hall.mp4",
+    "video_path": "hall/Hall.mp4",
+    "frame_number": 45,
+    "timestamp_seconds": 1.502,
+    "blur_score": 79.2,
+    "brightness": 119.1
+  },
+  {
+    "room_label": "hall",
+    "video_filename": "Hall.mp4",
+    "video_path": "hall/Hall.mp4",
+    "frame_number": 60,
+    "timestamp_seconds": 2.003,
+    "blur_score": 74.24,
+    "brightness": 119.72
+  },
+  {
+    "room_label": "hall",
+    "video_filename": "Hall.mp4",
+    "video_path": "hall/Hall.mp4",
+    "frame_number": 75,
+    "timestamp_seconds": 2.504,
+    "blur_score": 75.26,
+    "brightness": 117.7
+  },
+  {
+    "room_label": "hall",
+    "video_filename": "Hall.mp4",
+    "video_path": "hall/Hall.mp4",
+    "frame_number": 90,
+    "timestamp_seconds": 3.005,
+    "blur_score": 87.64,
+    "brightness": 115.74
+  },
+  {
+    "room_label": "hall",
+    "video_filename": "Hall.mp4",
+    "video_path": "hall/Hall.mp4",
+    "frame_number": 105,
+    "timestamp_seconds": 3.506,
+    "blur_score": 63.97,
+    "brightness": 120.61
+  },
+  {
+    "room_label": "hall",
+    "video_filename": "Hall.mp4",
+    "video_path": "hall/Hall.mp4",
+    "frame_number": 120,
+    "timestamp_seconds": 4.006,
+    "blur_score": 82.8,
+    "brightness": 123.76
+  },
+  {
+    "room_label": "hall",
+    "video_filename": "Hall.mp4",
+    "video_path": "hall/Hall.mp4",
+    "frame_number": 135,
+    "timestamp_seconds": 4.507,
+    "blur_score": 163.66,
+    "brightness": 119.29
+  },
+  {
+    "room_label": "hall",
+    "video_filename": "Hall.mp4",
+    "video_path": "hall/Hall.mp4",
+    "frame_number": 150,
+    "timestamp_seconds": 5.008,
+    "blur_score": 218.1,
+    "brightness": 125.47
+  },
+  {
+    "room_label": "hall",
+    "video_filename": "Hall.mp4",
+    "video_path": "hall/Hall.mp4",
+    "frame_number": 165,
+    "timestamp_seconds": 5.509,
+    "blur_score": 75.89,
+    "brightness": 135.82
+  },
+  {
+    "room_label": "hall",
+    "video_filename": "Hall.mp4",
+    "video_path": "hall/Hall.mp4",
+    "frame_number": 180,
+    "timestamp_seconds": 6.01,
+    "blur_score": 60.18,
+    "brightness": 133.08
+  },
+  {
+    "room_label": "hall",
+    "video_filename": "Hall.mp4",
+    "video_path": "hall/Hall.mp4",
+    "frame_number": 195,
+    "timestamp_seconds": 6.51,
+    "blur_score": 98.98,
+    "brightness": 133.34
+  },
+  {
+    "room_label": "hall",
+    "video_filename": "Hall.mp4",
+    "video_path": "hall/Hall.mp4",
+    "frame_number": 210,
+    "timestamp_seconds": 7.011,
+    "blur_score": 117.44,
+    "brightness": 118.1
+  },
+  {
+    "room_label": "hall",
+    "video_filename": "Hall_p.mp4",
+    "video_path": "hall/Hall_p.mp4",
+    "frame_number": 0,
+    "timestamp_seconds": 0.0,
+    "blur_score": 330.95,
+    "brightness": 127.51
+  },
+  {
+    "room_label": "hall",
+    "video_filename": "Hall_p.mp4",
+    "video_path": "hall/Hall_p.mp4",
+    "frame_number": 15,
+    "timestamp_seconds": 0.501,
+    "blur_score": 179.63,
+    "brightness": 130.1
+  },
+  {
+    "room_label": "hall",
+    "video_filename": "Hall_p.mp4",
+    "video_path": "hall/Hall_p.mp4",
+    "frame_number": 30,
+    "timestamp_seconds": 1.002,
+    "blur_score": 176.42,
+    "brightness": 127.94
+  },
+  {
+    "room_label": "hall",
+    "video_filename": "Hall_p.mp4",
+    "video_path": "hall/Hall_p.mp4",
+    "frame_number": 45,
+    "timestamp_seconds": 1.502,
+    "blur_score": 246.62,
+    "brightness": 125.11
+  },
+  {
+    "room_label": "hall",
+    "video_filename": "Hall_p.mp4",
+    "video_path": "hall/Hall_p.mp4",
+    "frame_number": 60,
+    "timestamp_seconds": 2.003,
+    "blur_score": 105.77,
+    "brightness": 121.05
+  },
+  {
+    "room_label": "hall",
+    "video_filename": "Hall_p.mp4",
+    "video_path": "hall/Hall_p.mp4",
+    "frame_number": 75,
+    "timestamp_seconds": 2.504,
+    "blur_score": 246.85,
+    "brightness": 123.19
+  },
+  {
+    "room_label": "hall",
+    "video_filename": "Hall_p.mp4",
+    "video_path": "hall/Hall_p.mp4",
+    "frame_number": 90,
+    "timestamp_seconds": 3.005,
+    "blur_score": 186.45,
+    "brightness": 125.72
+  },
+  {
+    "room_label": "hall",
+    "video_filename": "Hall_p.mp4",
+    "video_path": "hall/Hall_p.mp4",
+    "frame_number": 105,
+    "timestamp_seconds": 3.506,
+    "blur_score": 141.81,
+    "brightness": 123.76
+  },
+  {
+    "room_label": "hall",
+    "video_filename": "Hall_p.mp4",
+    "video_path": "hall/Hall_p.mp4",
+    "frame_number": 120,
+    "timestamp_seconds": 4.007,
+    "blur_score": 147.56,
+    "brightness": 122.1
+  },
+  {
+    "room_label": "hall",
+    "video_filename": "Hall_p.mp4",
+    "video_path": "hall/Hall_p.mp4",
+    "frame_number": 135,
+    "timestamp_seconds": 4.507,
+    "blur_score": 180.38,
+    "brightness": 119.88
+  },
+  {
+    "room_label": "hall",
+    "video_filename": "Hall_p.mp4",
+    "video_path": "hall/Hall_p.mp4",
+    "frame_number": 150,
+    "timestamp_seconds": 5.008,
+    "blur_score": 240.23,
+    "brightness": 113.02
+  },
+  {
+    "room_label": "hall",
+    "video_filename": "Hall_p.mp4",
+    "video_path": "hall/Hall_p.mp4",
+    "frame_number": 165,
+    "timestamp_seconds": 5.509,
+    "blur_score": 279.72,
+    "brightness": 117.5
+  },
+  {
+    "room_label": "hall",
+    "video_filename": "Hall_p.mp4",
+    "video_path": "hall/Hall_p.mp4",
+    "frame_number": 180,
+    "timestamp_seconds": 6.01,
+    "blur_score": 275.82,
+    "brightness": 119.54
+  },
+  {
+    "room_label": "hall",
+    "video_filename": "Hall_p.mp4",
+    "video_path": "hall/Hall_p.mp4",
+    "frame_number": 195,
+    "timestamp_seconds": 6.511,
+    "blur_score": 187.3,
+    "brightness": 123.76
+  },
+  {
+    "room_label": "hall",
+    "video_filename": "Hall_p.mp4",
+    "video_path": "hall/Hall_p.mp4",
+    "frame_number": 210,
+    "timestamp_seconds": 7.011,
+    "blur_score": 162.52,
+    "brightness": 128.14
+  },
+  {
+    "room_label": "hall",
+    "video_filename": "Hall_p.mp4",
+    "video_path": "hall/Hall_p.mp4",
+    "frame_number": 225,
+    "timestamp_seconds": 7.512,
+    "blur_score": 207.5,
+    "brightness": 127.31
+  },
+  {
+    "room_label": "hall",
+    "video_filename": "Hall_p.mp4",
+    "video_path": "hall/Hall_p.mp4",
+    "frame_number": 240,
+    "timestamp_seconds": 8.013,
+    "blur_score": 311.93,
+    "brightness": 125.46
+  },
+  {
+    "room_label": "hall",
+    "video_filename": "Hall_p.mp4",
+    "video_path": "hall/Hall_p.mp4",
+    "frame_number": 255,
+    "timestamp_seconds": 8.514,
+    "blur_score": 138.21,
+    "brightness": 131.91
+  },
+  {
+    "room_label": "hall",
+    "video_filename": "Hall_p.mp4",
+    "video_path": "hall/Hall_p.mp4",
+    "frame_number": 270,
+    "timestamp_seconds": 9.015,
+    "blur_score": 194.04,
+    "brightness": 134.11
+  },
+  {
+    "room_label": "hall",
+    "video_filename": "Hall_p.mp4",
+    "video_path": "hall/Hall_p.mp4",
+    "frame_number": 285,
+    "timestamp_seconds": 9.515,
+    "blur_score": 133.39,
+    "brightness": 132.14
+  },
+  {
+    "room_label": "hall",
+    "video_filename": "Hall_p.mp4",
+    "video_path": "hall/Hall_p.mp4",
+    "frame_number": 300,
+    "timestamp_seconds": 10.016,
+    "blur_score": 108.0,
+    "brightness": 141.77
+  },
+  {
+    "room_label": "hall",
+    "video_filename": "Hall_p.mp4",
+    "video_path": "hall/Hall_p.mp4",
+    "frame_number": 315,
+    "timestamp_seconds": 10.517,
+    "blur_score": 104.78,
+    "brightness": 130.5
+  },
+  {
+    "room_label": "hall",
+    "video_filename": "Hall_p.mp4",
+    "video_path": "hall/Hall_p.mp4",
+    "frame_number": 330,
+    "timestamp_seconds": 11.018,
+    "blur_score": 66.51,
+    "brightness": 125.23
+  },
+  {
+    "room_label": "hall",
+    "video_filename": "Hall_p.mp4",
+    "video_path": "hall/Hall_p.mp4",
+    "frame_number": 345,
+    "timestamp_seconds": 11.519,
+    "blur_score": 86.1,
+    "brightness": 113.4
+  },
+  {
+    "room_label": "hall",
+    "video_filename": "Hall_p.mp4",
+    "video_path": "hall/Hall_p.mp4",
+    "frame_number": 375,
+    "timestamp_seconds": 12.52,
+    "blur_score": 92.97,
+    "brightness": 98.25
+  },
+  {
+    "room_label": "hall",
+    "video_filename": "Hall_p.mp4",
+    "video_path": "hall/Hall_p.mp4",
+    "frame_number": 390,
+    "timestamp_seconds": 13.021,
+    "blur_score": 262.27,
+    "brightness": 105.13
+  },
+  {
+    "room_label": "hall",
+    "video_filename": "Hall_p.mp4",
+    "video_path": "hall/Hall_p.mp4",
+    "frame_number": 405,
+    "timestamp_seconds": 13.522,
+    "blur_score": 92.54,
+    "brightness": 123.34
+  },
+  {
+    "room_label": "hall",
+    "video_filename": "Hall_p.mp4",
+    "video_path": "hall/Hall_p.mp4",
+    "frame_number": 420,
+    "timestamp_seconds": 14.023,
+    "blur_score": 152.13,
+    "brightness": 125.82
+  },
+  {
+    "room_label": "hall",
+    "video_filename": "Hall_p.mp4",
+    "video_path": "hall/Hall_p.mp4",
+    "frame_number": 435,
+    "timestamp_seconds": 14.524,
+    "blur_score": 163.62,
+    "brightness": 119.24
+  },
+  {
+    "room_label": "hall",
+    "video_filename": "Hall_p.mp4",
+    "video_path": "hall/Hall_p.mp4",
+    "frame_number": 450,
+    "timestamp_seconds": 15.024,
+    "blur_score": 162.17,
+    "brightness": 123.4
+  },
+  {
+    "room_label": "hall",
+    "video_filename": "Hall_p.mp4",
+    "video_path": "hall/Hall_p.mp4",
+    "frame_number": 465,
+    "timestamp_seconds": 15.525,
+    "blur_score": 231.07,
+    "brightness": 124.42
+  },
+  {
+    "room_label": "hall",
+    "video_filename": "Hall_p.mp4",
+    "video_path": "hall/Hall_p.mp4",
+    "frame_number": 480,
+    "timestamp_seconds": 16.026,
+    "blur_score": 398.25,
+    "brightness": 121.85
+  },
+  {
+    "room_label": "hall",
+    "video_filename": "Hall_p.mp4",
+    "video_path": "hall/Hall_p.mp4",
+    "frame_number": 495,
+    "timestamp_seconds": 16.527,
+    "blur_score": 69.77,
+    "brightness": 103.23
+  },
+  {
+    "room_label": "hall",
+    "video_filename": "Hall_p.mp4",
+    "video_path": "hall/Hall_p.mp4",
+    "frame_number": 510,
+    "timestamp_seconds": 17.028,
+    "blur_score": 242.14,
+    "brightness": 106.67
+  },
+  {
+    "room_label": "hall",
+    "video_filename": "Hall_p.mp4",
+    "video_path": "hall/Hall_p.mp4",
+    "frame_number": 525,
+    "timestamp_seconds": 17.529,
+    "blur_score": 71.54,
+    "brightness": 98.54
+  },
+  {
+    "room_label": "hall",
+    "video_filename": "Hall_p.mp4",
+    "video_path": "hall/Hall_p.mp4",
+    "frame_number": 540,
+    "timestamp_seconds": 18.029,
+    "blur_score": 207.76,
+    "brightness": 87.44
+  },
+  {
+    "room_label": "hall",
+    "video_filename": "Hall_p.mp4",
+    "video_path": "hall/Hall_p.mp4",
+    "frame_number": 555,
+    "timestamp_seconds": 18.53,
+    "blur_score": 62.07,
+    "brightness": 100.65
+  },
+  {
+    "room_label": "hall",
+    "video_filename": "Hall_p.mp4",
+    "video_path": "hall/Hall_p.mp4",
+    "frame_number": 570,
+    "timestamp_seconds": 19.031,
+    "blur_score": 107.21,
+    "brightness": 102.75
+  },
+  {
+    "room_label": "hall",
+    "video_filename": "Hall_p.mp4",
+    "video_path": "hall/Hall_p.mp4",
+    "frame_number": 585,
+    "timestamp_seconds": 19.532,
+    "blur_score": 120.77,
+    "brightness": 101.47
+  },
+  {
+    "room_label": "hall",
+    "video_filename": "Hall_p.mp4",
+    "video_path": "hall/Hall_p.mp4",
+    "frame_number": 600,
+    "timestamp_seconds": 20.033,
+    "blur_score": 311.24,
+    "brightness": 101.48
+  },
+  {
+    "room_label": "kahab_room",
+    "video_filename": "Kahab_room.mp4",
+    "video_path": "kahab_room/Kahab_room.mp4",
+    "frame_number": 30,
+    "timestamp_seconds": 1.003,
+    "blur_score": 93.52,
+    "brightness": 133.68
+  },
+  {
+    "room_label": "kahab_room",
+    "video_filename": "Kahab_room.mp4",
+    "video_path": "kahab_room/Kahab_room.mp4",
+    "frame_number": 45,
+    "timestamp_seconds": 1.505,
+    "blur_score": 87.51,
+    "brightness": 130.06
+  },
+  {
+    "room_label": "kahab_room",
+    "video_filename": "Kahab_room.mp4",
+    "video_path": "kahab_room/Kahab_room.mp4",
+    "frame_number": 60,
+    "timestamp_seconds": 2.007,
+    "blur_score": 124.1,
+    "brightness": 127.84
+  },
+  {
+    "room_label": "kahab_room",
+    "video_filename": "Kahab_room.mp4",
+    "video_path": "kahab_room/Kahab_room.mp4",
+    "frame_number": 75,
+    "timestamp_seconds": 2.508,
+    "blur_score": 135.89,
+    "brightness": 124.91
+  },
+  {
+    "room_label": "kahab_room",
+    "video_filename": "Kahab_room.mp4",
+    "video_path": "kahab_room/Kahab_room.mp4",
+    "frame_number": 90,
+    "timestamp_seconds": 3.01,
+    "blur_score": 184.52,
+    "brightness": 125.87
+  },
+  {
+    "room_label": "kahab_room",
+    "video_filename": "Kahab_room.mp4",
+    "video_path": "kahab_room/Kahab_room.mp4",
+    "frame_number": 105,
+    "timestamp_seconds": 3.512,
+    "blur_score": 183.34,
+    "brightness": 131.52
+  },
+  {
+    "room_label": "kahab_room",
+    "video_filename": "Kahab_room.mp4",
+    "video_path": "kahab_room/Kahab_room.mp4",
+    "frame_number": 120,
+    "timestamp_seconds": 4.014,
+    "blur_score": 215.38,
+    "brightness": 128.34
+  },
+  {
+    "room_label": "kahab_room",
+    "video_filename": "Kahab_room.mp4",
+    "video_path": "kahab_room/Kahab_room.mp4",
+    "frame_number": 135,
+    "timestamp_seconds": 4.515,
+    "blur_score": 239.76,
+    "brightness": 122.3
+  },
+  {
+    "room_label": "kahab_room",
+    "video_filename": "Kahab_room.mp4",
+    "video_path": "kahab_room/Kahab_room.mp4",
+    "frame_number": 150,
+    "timestamp_seconds": 5.017,
+    "blur_score": 277.55,
+    "brightness": 115.75
+  },
+  {
+    "room_label": "kahab_room",
+    "video_filename": "Kahab_room.mp4",
+    "video_path": "kahab_room/Kahab_room.mp4",
+    "frame_number": 165,
+    "timestamp_seconds": 5.519,
+    "blur_score": 219.27,
+    "brightness": 109.53
+  },
+  {
+    "room_label": "kahab_room",
+    "video_filename": "Kahab_room.mp4",
+    "video_path": "kahab_room/Kahab_room.mp4",
+    "frame_number": 180,
+    "timestamp_seconds": 6.02,
+    "blur_score": 190.78,
+    "brightness": 108.13
+  },
+  {
+    "room_label": "kahab_room",
+    "video_filename": "Kahab_room.mp4",
+    "video_path": "kahab_room/Kahab_room.mp4",
+    "frame_number": 195,
+    "timestamp_seconds": 6.522,
+    "blur_score": 191.66,
+    "brightness": 107.04
+  },
+  {
+    "room_label": "kahab_room",
+    "video_filename": "Kahab_room.mp4",
+    "video_path": "kahab_room/Kahab_room.mp4",
+    "frame_number": 210,
+    "timestamp_seconds": 7.024,
+    "blur_score": 165.64,
+    "brightness": 117.18
+  },
+  {
+    "room_label": "kahab_room",
+    "video_filename": "Kahab_room.mp4",
+    "video_path": "kahab_room/Kahab_room.mp4",
+    "frame_number": 225,
+    "timestamp_seconds": 7.525,
+    "blur_score": 188.18,
+    "brightness": 124.62
+  },
+  {
+    "room_label": "kahab_room",
+    "video_filename": "Kahab_room.mp4",
+    "video_path": "kahab_room/Kahab_room.mp4",
+    "frame_number": 240,
+    "timestamp_seconds": 8.027,
+    "blur_score": 248.83,
+    "brightness": 126.03
+  },
+  {
+    "room_label": "kahab_room",
+    "video_filename": "Kahab_room.mp4",
+    "video_path": "kahab_room/Kahab_room.mp4",
+    "frame_number": 255,
+    "timestamp_seconds": 8.529,
+    "blur_score": 249.6,
+    "brightness": 131.83
+  },
+  {
+    "room_label": "kahab_room",
+    "video_filename": "Kahab_room.mp4",
+    "video_path": "kahab_room/Kahab_room.mp4",
+    "frame_number": 270,
+    "timestamp_seconds": 9.03,
+    "blur_score": 215.48,
+    "brightness": 132.28
+  },
+  {
+    "room_label": "kahab_room",
+    "video_filename": "Kahab_room.mp4",
+    "video_path": "kahab_room/Kahab_room.mp4",
+    "frame_number": 285,
+    "timestamp_seconds": 9.532,
+    "blur_score": 160.85,
+    "brightness": 126.29
+  },
+  {
+    "room_label": "kitchen",
+    "video_filename": "Kitchen.mp4",
+    "video_path": "kitchen/Kitchen.mp4",
+    "frame_number": 0,
+    "timestamp_seconds": 0.0,
+    "blur_score": 119.0,
+    "brightness": 100.64
+  },
+  {
+    "room_label": "kitchen",
+    "video_filename": "Kitchen.mp4",
+    "video_path": "kitchen/Kitchen.mp4",
+    "frame_number": 15,
+    "timestamp_seconds": 0.503,
+    "blur_score": 92.12,
+    "brightness": 97.86
+  },
+  {
+    "room_label": "kitchen",
+    "video_filename": "Kitchen.mp4",
+    "video_path": "kitchen/Kitchen.mp4",
+    "frame_number": 30,
+    "timestamp_seconds": 1.006,
+    "blur_score": 103.43,
+    "brightness": 94.3
+  },
+  {
+    "room_label": "kitchen",
+    "video_filename": "Kitchen.mp4",
+    "video_path": "kitchen/Kitchen.mp4",
+    "frame_number": 45,
+    "timestamp_seconds": 1.509,
+    "blur_score": 92.03,
+    "brightness": 89.37
+  },
+  {
+    "room_label": "kitchen",
+    "video_filename": "Kitchen.mp4",
+    "video_path": "kitchen/Kitchen.mp4",
+    "frame_number": 60,
+    "timestamp_seconds": 2.012,
+    "blur_score": 128.85,
+    "brightness": 87.2
+  },
+  {
+    "room_label": "kitchen",
+    "video_filename": "Kitchen.mp4",
+    "video_path": "kitchen/Kitchen.mp4",
+    "frame_number": 75,
+    "timestamp_seconds": 2.515,
+    "blur_score": 102.06,
+    "brightness": 81.17
+  },
+  {
+    "room_label": "kitchen",
+    "video_filename": "Kitchen.mp4",
+    "video_path": "kitchen/Kitchen.mp4",
+    "frame_number": 90,
+    "timestamp_seconds": 3.018,
+    "blur_score": 140.76,
+    "brightness": 77.74
+  },
+  {
+    "room_label": "kitchen",
+    "video_filename": "Kitchen.mp4",
+    "video_path": "kitchen/Kitchen.mp4",
+    "frame_number": 105,
+    "timestamp_seconds": 3.521,
+    "blur_score": 93.73,
+    "brightness": 74.29
+  },
+  {
+    "room_label": "kitchen",
+    "video_filename": "Kitchen.mp4",
+    "video_path": "kitchen/Kitchen.mp4",
+    "frame_number": 120,
+    "timestamp_seconds": 4.024,
+    "blur_score": 113.98,
+    "brightness": 66.73
+  },
+  {
+    "room_label": "kitchen",
+    "video_filename": "Kitchen.mp4",
+    "video_path": "kitchen/Kitchen.mp4",
+    "frame_number": 135,
+    "timestamp_seconds": 4.527,
+    "blur_score": 73.26,
+    "brightness": 59.62
+  },
+  {
+    "room_label": "kitchen",
+    "video_filename": "Kitchen.mp4",
+    "video_path": "kitchen/Kitchen.mp4",
+    "frame_number": 150,
+    "timestamp_seconds": 5.03,
+    "blur_score": 110.5,
+    "brightness": 55.66
+  },
+  {
+    "room_label": "kitchen",
+    "video_filename": "Kitchen.mp4",
+    "video_path": "kitchen/Kitchen.mp4",
+    "frame_number": 165,
+    "timestamp_seconds": 5.533,
+    "blur_score": 82.11,
+    "brightness": 55.96
+  },
+  {
+    "room_label": "living_room",
+    "video_filename": "Living_room.mp4",
+    "video_path": "living_room/Living_room.mp4",
+    "frame_number": 0,
+    "timestamp_seconds": 0.0,
+    "blur_score": 221.08,
+    "brightness": 100.57
+  },
+  {
+    "room_label": "living_room",
+    "video_filename": "Living_room.mp4",
+    "video_path": "living_room/Living_room.mp4",
+    "frame_number": 15,
+    "timestamp_seconds": 0.502,
+    "blur_score": 143.51,
+    "brightness": 103.03
+  },
+  {
+    "room_label": "living_room",
+    "video_filename": "Living_room.mp4",
+    "video_path": "living_room/Living_room.mp4",
+    "frame_number": 30,
+    "timestamp_seconds": 1.004,
+    "blur_score": 82.5,
+    "brightness": 107.16
+  },
+  {
+    "room_label": "living_room",
+    "video_filename": "Living_room.mp4",
+    "video_path": "living_room/Living_room.mp4",
+    "frame_number": 45,
+    "timestamp_seconds": 1.506,
+    "blur_score": 72.36,
+    "brightness": 107.68
+  },
+  {
+    "room_label": "living_room",
+    "video_filename": "Living_room.mp4",
+    "video_path": "living_room/Living_room.mp4",
+    "frame_number": 60,
+    "timestamp_seconds": 2.009,
+    "blur_score": 80.16,
+    "brightness": 103.51
+  },
+  {
+    "room_label": "living_room",
+    "video_filename": "Living_room.mp4",
+    "video_path": "living_room/Living_room.mp4",
+    "frame_number": 90,
+    "timestamp_seconds": 3.013,
+    "blur_score": 67.46,
+    "brightness": 104.4
+  },
+  {
+    "room_label": "living_room",
+    "video_filename": "Living_room.mp4",
+    "video_path": "living_room/Living_room.mp4",
+    "frame_number": 105,
+    "timestamp_seconds": 3.515,
+    "blur_score": 95.65,
+    "brightness": 99.55
+  },
+  {
+    "room_label": "living_room",
+    "video_filename": "Living_room.mp4",
+    "video_path": "living_room/Living_room.mp4",
+    "frame_number": 120,
+    "timestamp_seconds": 4.017,
+    "blur_score": 182.59,
+    "brightness": 90.26
+  },
+  {
+    "room_label": "living_room",
+    "video_filename": "Living_room.mp4",
+    "video_path": "living_room/Living_room.mp4",
+    "frame_number": 135,
+    "timestamp_seconds": 4.519,
+    "blur_score": 176.68,
+    "brightness": 90.72
+  },
+  {
+    "room_label": "living_room",
+    "video_filename": "Living_room.mp4",
+    "video_path": "living_room/Living_room.mp4",
+    "frame_number": 150,
+    "timestamp_seconds": 5.022,
+    "blur_score": 123.01,
+    "brightness": 106.31
+  },
+  {
+    "room_label": "living_room",
+    "video_filename": "Living_room.mp4",
+    "video_path": "living_room/Living_room.mp4",
+    "frame_number": 165,
+    "timestamp_seconds": 5.524,
+    "blur_score": 89.08,
+    "brightness": 112.05
+  },
+  {
+    "room_label": "living_room",
+    "video_filename": "Living_room.mp4",
+    "video_path": "living_room/Living_room.mp4",
+    "frame_number": 180,
+    "timestamp_seconds": 6.026,
+    "blur_score": 79.12,
+    "brightness": 126.15
+  },
+  {
+    "room_label": "living_room",
+    "video_filename": "Living_room.mp4",
+    "video_path": "living_room/Living_room.mp4",
+    "frame_number": 195,
+    "timestamp_seconds": 6.528,
+    "blur_score": 70.85,
+    "brightness": 103.2
+  },
+  {
+    "room_label": "shabina_room",
+    "video_filename": "Shabina_room.mp4",
+    "video_path": "shabina_room/Shabina_room.mp4",
+    "frame_number": 0,
+    "timestamp_seconds": 0.0,
+    "blur_score": 111.91,
+    "brightness": 103.05
+  },
+  {
+    "room_label": "shabina_room",
+    "video_filename": "Shabina_room.mp4",
+    "video_path": "shabina_room/Shabina_room.mp4",
+    "frame_number": 15,
+    "timestamp_seconds": 0.503,
+    "blur_score": 103.5,
+    "brightness": 110.88
+  },
+  {
+    "room_label": "shabina_room",
+    "video_filename": "Shabina_room.mp4",
+    "video_path": "shabina_room/Shabina_room.mp4",
+    "frame_number": 45,
+    "timestamp_seconds": 1.508,
+    "blur_score": 67.84,
+    "brightness": 130.27
+  },
+  {
+    "room_label": "shabina_room",
+    "video_filename": "Shabina_room.mp4",
+    "video_path": "shabina_room/Shabina_room.mp4",
+    "frame_number": 60,
+    "timestamp_seconds": 2.01,
+    "blur_score": 114.28,
+    "brightness": 127.72
+  },
+  {
+    "room_label": "shabina_room",
+    "video_filename": "Shabina_room.mp4",
+    "video_path": "shabina_room/Shabina_room.mp4",
+    "frame_number": 75,
+    "timestamp_seconds": 2.513,
+    "blur_score": 132.27,
+    "brightness": 122.72
+  },
+  {
+    "room_label": "shabina_room",
+    "video_filename": "Shabina_room.mp4",
+    "video_path": "shabina_room/Shabina_room.mp4",
+    "frame_number": 90,
+    "timestamp_seconds": 3.016,
+    "blur_score": 124.36,
+    "brightness": 129.4
+  },
+  {
+    "room_label": "shabina_room",
+    "video_filename": "Shabina_room.mp4",
+    "video_path": "shabina_room/Shabina_room.mp4",
+    "frame_number": 105,
+    "timestamp_seconds": 3.518,
+    "blur_score": 119.0,
+    "brightness": 119.32
+  },
+  {
+    "room_label": "shabina_room",
+    "video_filename": "Shabina_room.mp4",
+    "video_path": "shabina_room/Shabina_room.mp4",
+    "frame_number": 120,
+    "timestamp_seconds": 4.021,
+    "blur_score": 236.56,
+    "brightness": 116.15
+  },
+  {
+    "room_label": "shabina_room",
+    "video_filename": "Shabina_room.mp4",
+    "video_path": "shabina_room/Shabina_room.mp4",
+    "frame_number": 135,
+    "timestamp_seconds": 4.524,
+    "blur_score": 158.38,
+    "brightness": 123.38
+  },
+  {
+    "room_label": "shabina_room",
+    "video_filename": "Shabina_room.mp4",
+    "video_path": "shabina_room/Shabina_room.mp4",
+    "frame_number": 150,
+    "timestamp_seconds": 5.026,
+    "blur_score": 134.02,
+    "brightness": 135.73
+  },
+  {
+    "room_label": "shabina_room",
+    "video_filename": "Shabina_room.mp4",
+    "video_path": "shabina_room/Shabina_room.mp4",
+    "frame_number": 165,
+    "timestamp_seconds": 5.529,
+    "blur_score": 136.26,
+    "brightness": 133.08
+  },
+  {
+    "room_label": "shabina_room",
+    "video_filename": "Shabina_room.mp4",
+    "video_path": "shabina_room/Shabina_room.mp4",
+    "frame_number": 180,
+    "timestamp_seconds": 6.031,
+    "blur_score": 197.94,
+    "brightness": 121.42
+  },
+  {
+    "room_label": "umma_room",
+    "video_filename": "Umma_room.mp4",
+    "video_path": "umma_room/Umma_room.mp4",
+    "frame_number": 0,
+    "timestamp_seconds": 0.0,
+    "blur_score": 129.55,
+    "brightness": 137.95
+  },
+  {
+    "room_label": "umma_room",
+    "video_filename": "Umma_room.mp4",
+    "video_path": "umma_room/Umma_room.mp4",
+    "frame_number": 15,
+    "timestamp_seconds": 0.502,
+    "blur_score": 103.97,
+    "brightness": 139.45
+  },
+  {
+    "room_label": "umma_room",
+    "video_filename": "Umma_room.mp4",
+    "video_path": "umma_room/Umma_room.mp4",
+    "frame_number": 30,
+    "timestamp_seconds": 1.005,
+    "blur_score": 119.59,
+    "brightness": 136.9
+  },
+  {
+    "room_label": "umma_room",
+    "video_filename": "Umma_room.mp4",
+    "video_path": "umma_room/Umma_room.mp4",
+    "frame_number": 45,
+    "timestamp_seconds": 1.507,
+    "blur_score": 60.27,
+    "brightness": 129.85
+  },
+  {
+    "room_label": "umma_room",
+    "video_filename": "Umma_room.mp4",
+    "video_path": "umma_room/Umma_room.mp4",
+    "frame_number": 60,
+    "timestamp_seconds": 2.01,
+    "blur_score": 72.68,
+    "brightness": 128.24
+  },
+  {
+    "room_label": "umma_room",
+    "video_filename": "Umma_room.mp4",
+    "video_path": "umma_room/Umma_room.mp4",
+    "frame_number": 75,
+    "timestamp_seconds": 2.512,
+    "blur_score": 63.49,
+    "brightness": 128.18
+  },
+  {
+    "room_label": "umma_room",
+    "video_filename": "Umma_room.mp4",
+    "video_path": "umma_room/Umma_room.mp4",
+    "frame_number": 90,
+    "timestamp_seconds": 3.014,
+    "blur_score": 92.65,
+    "brightness": 114.37
+  },
+  {
+    "room_label": "umma_room",
+    "video_filename": "Umma_room.mp4",
+    "video_path": "umma_room/Umma_room.mp4",
+    "frame_number": 120,
+    "timestamp_seconds": 4.019,
+    "blur_score": 69.33,
+    "brightness": 79.36
+  },
+  {
+    "room_label": "umma_room",
+    "video_filename": "Umma_room.mp4",
+    "video_path": "umma_room/Umma_room.mp4",
+    "frame_number": 180,
+    "timestamp_seconds": 6.029,
+    "blur_score": 77.25,
+    "brightness": 58.98
+  }
+]

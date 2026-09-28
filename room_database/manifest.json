@@ -1,0 +1,22 @@
+{
+  "format_version": 1,
+  "created_at": "2026-09-28T15:33:36.110816+00:00",
+  "model_name": "facebook/dinov2-small",
+  "embedding_dimension": 384,
+  "embedding_count": 119,
+  "room_count": 6,
+  "rooms": {
+    "hall": 55,
+    "kahab_room": 18,
+    "kitchen": 12,
+    "living_room": 13,
+    "shabina_room": 12,
+    "umma_room": 9
+  },
+  "build_settings": {
+    "sample_interval_seconds": 0.5,
+    "min_blur_score": 60.0,
+    "min_brightness": 22.0,
+    "duplicate_similarity": 0.992
+  }
+}

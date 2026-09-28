@@ -1,0 +1,8 @@
+numpy>=1.26,<3
+opencv-python>=4.9,<5
+torch>=2.2
+torchvision>=0.17
+transformers>=4.40,<6
+faiss-cpu>=1.8
+safetensors>=0.4
+pillow>=10
