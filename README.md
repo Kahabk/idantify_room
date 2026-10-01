@@ -97,6 +97,7 @@ Start with the defaults, then inspect debug scores in known rooms and in genuine
 - Increase `SWITCH_CONFIRMATION_FRAMES` or `PREDICTION_WINDOW` for more stability at the cost of slower transitions.
 - Increase `UNKNOWN_CONFIRMATION_FRAMES` if short blurred/occluded sequences still make the stable location become `UNKNOWN`.
 - Lower `PROCESS_EVERY_N_FRAMES` for quicker reactions, or raise it for lower compute use.
+- 
 - If too many reference frames are discarded, lower `MIN_BLUR_SCORE` or raise `DUPLICATE_SIMILARITY`.
 
 Thresholds are environment-specific. Validate them with separate walk-through videos that were not used to build the database.
